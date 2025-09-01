@@ -1,0 +1,7 @@
+mcp[cli]
+passlib
+python-jose
+jwt
+requests
+fastapi 
+openai
